@@ -2,16 +2,16 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Philosopher.</a> University of Houston 
+subtitle: <a href='#'>Philosopher.</a> University of Michigan. 
 
 profile:
   align: right
   image: prof_pic.jpg
   image_cicular: false # crops the image to make it circular
   address: >
-    <p>508 Agnes Arnold Hall</p>
-    <p>3553 Cullen Boulevard</p>
-    <p>Houston, TX 77204-3004</p>
+    <p></p>
+    <p></p>
+    <p></p>
 
 news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
@@ -28,5 +28,5 @@ Before Michigan, I earned an MA in Philosophy and BAs in both Philosophy and Pol
 
 Outside of philosophy, I share my life with my [husband](http://phkieval.com) and our cat, and I enjoy making jewelry and pottery.
 
-You can reach me at [paezquer@cougarnet.uh.edu](mailto:paezquer@cougarnet.uh.edu)
+You can reach me at [ezquerra@umich.edu](mailto:ezquerra@umich.edu).
 
